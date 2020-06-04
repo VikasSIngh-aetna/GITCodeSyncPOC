@@ -22,6 +22,12 @@ public with sharing class NewApexclassForNRU {
         }
          for (Integer i = 0; i < 6; i++) {
             System.debug('Hello vikas');
+            System.debug('Hello vikas');
+            System.debug('Hello vikas');
+            System.debug('Hello vikas');
+            System.debug('Hello vikas');
+            System.debug('Hello vikas');
+
             System.debug('Hello vikas'+i);
          }
           
